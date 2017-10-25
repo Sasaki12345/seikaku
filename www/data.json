@@ -1,0 +1,85 @@
+[
+
+{
+    "no": 1,
+    "alphabet":"A",
+    "title": "インドアよりもアウトドアの遊びの方が好きだ",
+    "YES": 1,
+    "NO":3
+}
+,
+{
+    "no": 2,
+    "alphabet":"B",    
+    "title": "好きな食べ物でも2日連続だと飽きてしまう",
+    "YES": 1,
+    "NO":3    
+}
+,
+{
+    "no": 3,
+    "alphabet":"C",
+    "title": "約束当日にドタキャンしたことが何回かある",
+    "YES": "answer",
+    "NO":3,
+    "YES_answer":"猫" 
+}
+,
+{
+    "no": 4,
+    "alphabet":"D",
+    "title": "青や水色などの爽やかな色が好きだ",
+    "YES": 1,
+    "NO":3    
+}
+,
+{
+    "no": 5,
+    "alphabet":"E",
+    "title": "1人でいるより大勢でいる方が好きだ",
+    "YES": 1,
+    "NO":3    
+}
+,
+{
+    "no": 6,
+    "alphabet":"F",
+    "title": "人見知りはしない方だ",
+    "YES": "answer",
+    "NO":3,
+    "YES_answer":"犬" 
+
+}
+,
+{
+    "no": 7,
+    "alphabet":"G",
+    "title": "アクション映画が好きだ",
+    "YES": 1,
+    "NO":"answer",
+    "NO_answer":"蛇" 
+    
+}
+,
+{
+    "no": 8,
+    "alphabet":"H",
+    "title": "夏休みの宿題はぎりぎりまで手を付けないタイプだ",
+    "YES": 1,
+    "NO":"answer",
+    "NO_answer":"猪" 
+    
+}
+,
+{
+    "no": 9,
+    "alphabet":"I",
+    "title": "サプライズされると嬉しい",
+    "YES":"answer",
+    "NO":"answer",   
+    "YES_answer":"兎", 
+    "NO_answer":"羊" 
+
+}
+
+]
